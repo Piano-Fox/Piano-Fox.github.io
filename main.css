@@ -1,0 +1,9 @@
+@font-face {
+    font-family: clicker-script;
+    src: url('clicker-script.ttf');
+}
+
+#branding {
+    font-family: clicker-script;
+    text-transform: none;
+}
